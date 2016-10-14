@@ -1,8 +1,8 @@
-L18-P1
+ï»¿L18-P1
 
 L19-P1
-Ö±½ÓÉèÖÃboxµÄ¿í¶ÈµÄ»°£¬Êµ¼Ê¿í¶ÈÊÇ³¬¹ıÉè¶¨¿í¶ÈµÄ£»
-Èç¹ûÒªÉèÖÃµÄ¾ÍÊÇÊµ¼ÊµÄ£¬ÄÇÃ´¿ÉÒÔÍ¨¹ıbox-sizing: border-box;À´ÊµÏÖ£¬·´Ö®ÊÇcontent-box¡£
+box-sizing: border-box;
+box-sizingï¼šcontent-boxï¼›
 
 L23-P1
 @media (min-width: 768px) and (max-width: 991px) {}
