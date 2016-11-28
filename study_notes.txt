@@ -4,8 +4,16 @@ L19-P1
 box-sizing: border-box;
 box-sizing：content-box；
 
+L22-P1
+position: relative; //still in document flow
+position: absolute; //out of document flow
+
+L22-P2
+absolute needs a relative or an absolute parent or an ancestor.
+
 L23-P1
 @media (min-width: 768px) and (max-width: 991px) {}
 @media (min-width: 768px) , (max-width: 991px) {}
 
 L23-P2
+<meta name="viewport" content="width=device-width, initial-scale=1">
